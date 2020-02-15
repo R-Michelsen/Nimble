@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nimble", "Nimble\Nimble.vcxproj", "{A655D31D-BAD7-4034-BEC8-367987DBEF20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "Game\Game.vcxproj", "{F1E7DC12-D504-41E1-B33C-40F88B78F986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A655D31D-BAD7-4034-BEC8-367987DBEF20}.Debug|x64.ActiveCfg = Debug|x64
+		{A655D31D-BAD7-4034-BEC8-367987DBEF20}.Debug|x64.Build.0 = Debug|x64
+		{A655D31D-BAD7-4034-BEC8-367987DBEF20}.Release|x64.ActiveCfg = Release|x64
+		{A655D31D-BAD7-4034-BEC8-367987DBEF20}.Release|x64.Build.0 = Release|x64
+		{F1E7DC12-D504-41E1-B33C-40F88B78F986}.Debug|x64.ActiveCfg = Debug|x64
+		{F1E7DC12-D504-41E1-B33C-40F88B78F986}.Debug|x64.Build.0 = Debug|x64
+		{F1E7DC12-D504-41E1-B33C-40F88B78F986}.Release|x64.ActiveCfg = Release|x64
+		{F1E7DC12-D504-41E1-B33C-40F88B78F986}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F6CE12-CA4A-4CE3-B8F5-0A4D81A74975}
+	EndGlobalSection
+EndGlobal
