@@ -12,4 +12,4 @@ Nimble Engine - An API agnostic rendering engine written in C++
 # Libraries and Dependencies
 - [cgltf](https://github.com/jkuhlmann/cgltf)
 - [EASTL](https://github.com/electronicarts/EASTL)
-- [stb_image](https://github.com/nothings/stb
+- [stb_image](https://github.com/nothings/stb)
